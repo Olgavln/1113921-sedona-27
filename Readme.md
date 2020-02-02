@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Olga Kudryavceva](https://up.htmlacademy.ru/htmlcss/27/user/1113921).
-* Наставник: `Неизвестно`.
+* Наставник: [Илья Шишлачев](https://htmlacademy.ru/profile/id1251345).
 
 ---
 
